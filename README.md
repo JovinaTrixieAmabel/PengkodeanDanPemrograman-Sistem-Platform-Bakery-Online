@@ -20,7 +20,7 @@ Referensi: https://github.com/RafyMrX (https://github.com/RafyMrX/TOKO-ONLINE-RO
 ![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/bf7473c2-36d2-4c1b-a35d-d71629ba0d2d)
 ![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/41d19ac6-0cc0-4cb7-91f3-68be0bf341c5)
 ![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/af692964-7b27-4c0e-bb12-273731806393)
-![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/b29cbfae-684f-4ed9-8db4-346419815f5b)
+![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/a64ae862-9f7c-4ba1-8e68-178d570034b9)
 ![image](https://github.com/JovinaTrixieAmabel/PengkodeanDanPemrograman-Sistem-Platform-Bakery-Online/assets/167204712/1eeb3fed-fc70-4ff3-8351-f8e81bb3d838)
 
 # ERD
